@@ -1,0 +1,21 @@
+{
+    "name": "fallenangelbg/quickshorturl",
+    "description": "Quickly create a string representation of a numeric ID",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fallenangelbg\\QuickShortURL\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Todor Kirilov",
+            "email": "fallenangelbg@protonmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
